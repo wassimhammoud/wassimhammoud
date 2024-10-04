@@ -1,4 +1,4 @@
-## Hi there 👋 i'm wassim
+
 <h1 align="center">Hi there, I'm wassim</h1>
 <h3 align="center">A software engineering to be!</h3>
 
